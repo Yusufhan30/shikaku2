@@ -1,0 +1,5 @@
+# Shikaku Studio — bağımlılıklar
+# Kurulum:  pip install -r requirements.txt
+# Çalıştırma:  streamlit run app.py
+streamlit>=1.32
+pandas>=2.0
